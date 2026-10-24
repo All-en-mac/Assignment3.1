@@ -1,6 +1,4 @@
 Step 1: index.html (Home Page)
-Create your index.html file and paste the following code:
-
 HTML
 <!DOCTYPE html>
 <html lang="en">
@@ -33,9 +31,8 @@ HTML
 
 </body>
 </html>
-Step 2: about.html (About Page)
-Create your about.html file in the same folder and paste the following code:
 
+Step 2: about.html (About Page)
 HTML
 <!DOCTYPE html>
 <html lang="en">
@@ -68,18 +65,3 @@ HTML
 
 </body>
 </html>
-How Requirements Were Satisfied
-Two Files: Created index.html and about.html in the project directory.
-
-Navigation Bar: Included top navigation links on both pages to move seamlessly between views.
-
-Internal Linking: Connected the pages using relative anchor links (href="index.html" and href="about.html").
-
-External Link with Security: Linked out to MDN Web Docs using target="_blank" to open in a new tab and rel="noopener noreferrer" to protect against potential security vulnerabilities.
-
-Submission Checklist
-Save both index.html and about.html inside your project directory.
-
-Test the links locally using Live Server to verify that clicking "About" opens about.html, clicking "Home" brings you back, and clicking the external link opens in a separate secure tab.
-
-Submit both HTML files and a screenshot of your browser rendering the navigation bar and home page!
